@@ -1,0 +1,39 @@
+.tableUnit {
+    display: inline-block;
+    padding: 15px;
+    width: 120px;
+    margin-right: 60px;
+    padding-left: 20px;
+}
+tr.tableRow{
+    border-bottom: 2px solid #EEEEEE;
+}
+tr{
+    display: block;
+    border-bottom: 2px solid #EEEEEE;
+}
+.titleRow{
+    display: block;
+    background-color: #F6F8FA;
+}
+.titleRow td{
+    color: #8C8C8C;
+    font-weight: 600;
+}
+.container {
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 100px;
+    background-color: white;
+}
+.title{
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+.clickCon{
+    cursor: pointer;
+}
+
+.clickCon:hover{
+    background-color: #F6F8FA;
+}

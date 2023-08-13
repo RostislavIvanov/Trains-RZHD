@@ -1,0 +1,10 @@
+.characteristicInput {
+    border: none;
+    display: inline;
+    text-align: center;
+    fontSize: 14;
+}
+
+.invalidValue{
+    color: red;
+}
