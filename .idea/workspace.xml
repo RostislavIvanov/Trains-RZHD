@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a04012a-c25f-4820-a03e-a9c5b4b09e81" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CharacteristicsTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CharacteristicsTable.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TrainCharItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TrainCharItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TrainsTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TrainsTable.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="4a04012a-c25f-4820-a03e-a9c5b4b09e81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +59,7 @@
       <workItem from="1692429026715" duration="80000" />
       <workItem from="1692458171727" duration="284000" />
       <workItem from="1692458537410" duration="1575000" />
-      <workItem from="1692997731009" duration="1243000" />
+      <workItem from="1692997731009" duration="1562000" />
     </task>
     <servers />
   </component>
