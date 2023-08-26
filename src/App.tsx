@@ -1,10 +1,8 @@
-import React, {memo, useEffect, useState} from 'react';
+import React, {memo, useState} from 'react';
 import './App.css'
 import TrainsTable from "./components/TrainsTable";
 import CharacteristicsTable from "./components/CharacteristicsTable";
 import Button from "./components/Button";
-import {useAppDispatch, useAppSelector} from "./hooks/reduxHooks";
-import {fetchTrains} from "./store/ActionCreators";
 const App = memo(() => {
     const [trainNumber, setTrainNumber] = useState<number>(0)
 

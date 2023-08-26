@@ -1,9 +1,8 @@
-import React, {FC, memo, useEffect, useState} from 'react';
+import React, {FC, memo, useEffect} from 'react';
 import classes from '../styles/CharacteristicsTable.module.css'
 import Title from "./Title";
 import {useAppDispatch, useAppSelector} from "../hooks/reduxHooks";
 import TrainCharItem from "./TrainCharItem";
-import {ITrains} from "../types/ITrains";
 import {fetchTrains} from "../store/ActionCreators";
 
 interface ICharacteristicsTableProps {

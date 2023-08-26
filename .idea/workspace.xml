@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a04012a-c25f-4820-a03e-a9c5b4b09e81" name="Changes" comment="" />
+    <list default="true" id="4a04012a-c25f-4820-a03e-a9c5b4b09e81" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CharacteristicsTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CharacteristicsTable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TrainCharItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TrainCharItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TrainsTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TrainsTable.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +34,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/FrontEnd/REACT/Projects/trains/src/hooks&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FrontEnd/REACT/Projects/trains&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -55,7 +64,11 @@
       <workItem from="1691742693331" duration="8707000" />
       <workItem from="1691752530144" duration="11436000" />
       <workItem from="1691829336793" duration="25325000" />
-      <workItem from="1691911387259" duration="24675000" />
+      <workItem from="1691911387259" duration="24844000" />
+      <workItem from="1692429026715" duration="80000" />
+      <workItem from="1692458171727" duration="284000" />
+      <workItem from="1692458537410" duration="1575000" />
+      <workItem from="1692997731009" duration="1243000" />
     </task>
     <servers />
   </component>

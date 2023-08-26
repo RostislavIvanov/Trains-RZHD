@@ -1,8 +1,6 @@
-import React, {FC, memo, useEffect, useState} from 'react';
+import React, {FC, memo} from 'react';
 import classes from "../styles/TrainsTable.module.css";
-import {ITrains} from "../types/ITrains";
-import {useAppDispatch, useAppSelector} from "../hooks/reduxHooks";
-import {fetchTrains} from "../store/ActionCreators";
+import {useAppSelector} from "../hooks/reduxHooks";
 import TrainItem from "./TrainItem";
 import Title from "./Title";
 

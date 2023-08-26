@@ -1,6 +1,6 @@
-import React, {FC, memo, useCallback, useEffect, useState} from 'react';
+import React, {FC, memo} from 'react';
 import {ICharacteristics, ICharUpdatePayload} from "../types/ITrains";
-import {useAppDispatch, useAppSelector} from "../hooks/reduxHooks";
+import {useAppDispatch} from "../hooks/reduxHooks";
 import {trainsSlice} from "../store/trainsSlice";
 import classes from '../styles/TrainCharItem.module.css'
 import {checkingEngineAmperageValue, checkingForceValue, checkingSpeedValue} from "../utils/checkingValues";

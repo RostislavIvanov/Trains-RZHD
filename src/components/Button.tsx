@@ -2,7 +2,6 @@ import React, {FC, memo} from 'react';
 import classes from '../styles/Button.module.css'
 import {useAppSelector} from "../hooks/reduxHooks";
 import {checkingEngineAmperageValue, checkingForceValue, checkingSpeedValue} from "../utils/checkingValues";
-import {ITrains} from "../types/ITrains";
 
 
 interface IButtonProps {
